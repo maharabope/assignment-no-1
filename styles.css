@@ -106,3 +106,49 @@
     line-height: 26px;
     color: #444343;
 }
+
+.what-do-i-next{
+    margin: 130px 230px ;
+
+}
+
+.paln-title-main{
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    margin-bottom: 50px;
+}
+
+
+.my-all-plans{
+    display: flex;
+    justify-content: space-around;
+}
+
+.plan-title{
+    text-align: center;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    margin-top: 24px;
+}
+
+.what-i-want{
+    color: #737272;
+    text-align: center;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    margin-top: 16px;
+}
+
+.plan-img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+    width: 92.96px;
+    height: 92.96px;
+}
