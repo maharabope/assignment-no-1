@@ -273,8 +273,63 @@ footer{
     border-radius: 10px;
     border: none;
 }
+/* }bonus section style  */
 
+.bonus-section{
+    margin: 130px 230px;
+    background-image: url(./images/gradient1.png);
+    background-color: aqua;
+    padding: 20px;
+    color: white;
+    border-radius: 10px;
 
+}
+
+.bonus-section-body{
+    display: flex;
+}
+
+.letter{
+    margin: 10px 80px;
+    width: 540px;
+    text-align: justify;
+    border: 3px rgb(138, 218, 255) solid;
+    border-radius: 10px;
+    padding: 5px;
+
+    
+}
+
+.letter-title{
+    font-size: 35px;
+    text-align: center;
+    background-color: rgba(74, 155, 248, 0.377);
+    border-radius: 10px;
+}
+
+.letter-sub-title{
+    font-size: 18px;
+    margin-top: 3px;
+    margin-left: 200px;
+    color: #ffe6e6;
+}
+
+.letter-paragraph{
+    font-size: 18px;margin-top: 8px;
+
+}
+
+.latter-img{
+    
+    margin-top: 12.5px;
+    margin-right: 20px;
+    height: 233px;
+    width: 300px;
+    border-radius: 10px;
+    
+    
+
+}
 
 
 
